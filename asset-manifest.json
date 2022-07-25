@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tryunfo/static/css/main.84b97a05.chunk.css",
-    "main.js": "/tryunfo/static/js/main.4e0d641e.chunk.js",
-    "main.js.map": "/tryunfo/static/js/main.4e0d641e.chunk.js.map",
-    "runtime-main.js": "/tryunfo/static/js/runtime-main.7ee7bd61.js",
-    "runtime-main.js.map": "/tryunfo/static/js/runtime-main.7ee7bd61.js.map",
-    "static/js/2.bb8c338e.chunk.js": "/tryunfo/static/js/2.bb8c338e.chunk.js",
-    "static/js/2.bb8c338e.chunk.js.map": "/tryunfo/static/js/2.bb8c338e.chunk.js.map",
-    "index.html": "/tryunfo/index.html",
-    "static/css/main.84b97a05.chunk.css.map": "/tryunfo/static/css/main.84b97a05.chunk.css.map",
-    "static/js/2.bb8c338e.chunk.js.LICENSE.txt": "/tryunfo/static/js/2.bb8c338e.chunk.js.LICENSE.txt"
+    "main.css": "/tryunfo-deploy/static/css/main.84b97a05.chunk.css",
+    "main.js": "/tryunfo-deploy/static/js/main.4e0d641e.chunk.js",
+    "main.js.map": "/tryunfo-deploy/static/js/main.4e0d641e.chunk.js.map",
+    "runtime-main.js": "/tryunfo-deploy/static/js/runtime-main.78167f87.js",
+    "runtime-main.js.map": "/tryunfo-deploy/static/js/runtime-main.78167f87.js.map",
+    "static/js/2.bb8c338e.chunk.js": "/tryunfo-deploy/static/js/2.bb8c338e.chunk.js",
+    "static/js/2.bb8c338e.chunk.js.map": "/tryunfo-deploy/static/js/2.bb8c338e.chunk.js.map",
+    "index.html": "/tryunfo-deploy/index.html",
+    "static/css/main.84b97a05.chunk.css.map": "/tryunfo-deploy/static/css/main.84b97a05.chunk.css.map",
+    "static/js/2.bb8c338e.chunk.js.LICENSE.txt": "/tryunfo-deploy/static/js/2.bb8c338e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ee7bd61.js",
+    "static/js/runtime-main.78167f87.js",
     "static/js/2.bb8c338e.chunk.js",
     "static/css/main.84b97a05.chunk.css",
     "static/js/main.4e0d641e.chunk.js"
